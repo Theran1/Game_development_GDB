@@ -1,0 +1,19 @@
+﻿  main.cpp
+C:\Users\Theran_1\Documents\GitHub\Game_development_GDB\practiceForSomething\main.cpp(109,14): warning C4244: 'return': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Theran_1\Documents\GitHub\Game_development_GDB\practiceForSomething\main.cpp(100): message : while compiling class template member function 'T vec3<T>::DistanceTo(vec3<T>)'
+          with
+          [
+              T=int
+          ]
+C:\Users\Theran_1\Documents\GitHub\Game_development_GDB\practiceForSomething\main.cpp(128): message : see reference to function template instantiation 'T vec3<T>::DistanceTo(vec3<T>)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\Theran_1\Documents\GitHub\Game_development_GDB\practiceForSomething\main.cpp(124): message : see reference to class template instantiation 'vec3<int>' being compiled
+C:\Users\Theran_1\Documents\GitHub\Game_development_GDB\practiceForSomething\main.cpp(70): warning C4715: 'vec3<int>::operator==': not all control paths return a value
+  practiceForSomething.vcxproj -> C:\Users\Theran_1\Documents\GitHub\Game_development_GDB\practiceForSomething\x64\Debug\practiceForSomething.exe

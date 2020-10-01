@@ -1,0 +1,2 @@
+C:\Users\Theran_1\Documents\GitHub\Game_development_GDB\practiceForSomething\x64\Debug\practiceForSomething.exe
+C:\Users\Theran_1\Documents\GitHub\Game_development_GDB\practiceForSomething\x64\Debug\practiceForSomething.pdb
